@@ -10,3 +10,4 @@ LC Waikiki Favourite Product Scenario
 * Navigate to Favourites Page
 * Check if added items are in Favourites Page
 * Remove the added items from Favourites
+* Order the Shirts by price in decreasing order
